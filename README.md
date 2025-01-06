@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **PixelQuest**
 
-- 🌱 I’m currently learning **Asp.net Android**
+- 🌱 I’m currently learning **Asp.net, Android**
 
 - 📫 How to reach me **maulikcmb@gmail.com**
 
