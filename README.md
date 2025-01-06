@@ -1,17 +1,13 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Maulik cHOTHANI</h1>
+<h1 align="center">Hi 👋, I'm Maulik Chothani</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://paceglobalpk.net/wp-content/uploads/2023/07/code.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maulik02&label=Profile%20views&color=0e75b6&style=flat" alt="maulik02" /> </p>
 
-- 🔭 I’m currently working on **NO**
+- 🔭 I’m currently working on **PixelQuest**
 
-- 🌱 I’m currently learning **BSc IT**
-
-- 👯 I’m looking to collaborate on **NO**
-
-- 🤝 I’m looking for help with **NO**
+- 🌱 I’m currently learning **Asp.net Android**
 
 - 📫 How to reach me **maulikcmb@gmail.com**
 
