@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maulik02&label=Profile%20views&color=0e75b6&style=flat" alt="maulik02" /> </p>
 
-- 🔭 I’m currently working on **PixelQuest**
+- 🔭 I’m currently working on **SparrowGold Watches**
 
 - 🌱 I’m currently learning **Asp.net, Android**
 
